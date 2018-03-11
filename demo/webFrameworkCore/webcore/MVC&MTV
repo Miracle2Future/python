@@ -1,0 +1,12 @@
+WEB 框架
+
+
+MTV
+
+Model       Template         View
+数据库         模板文件        业务处理
+
+MVC
+
+Model       View             Controller
+数据库         模板文件        业务处理
